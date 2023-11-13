@@ -1,4 +1,6 @@
 <resources>
-    <string name="app_name">Gym</string>
+    <string name="app_name">Fitness Gym</string>
     <string name="btnlogin">Get Started</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
 </resources>
