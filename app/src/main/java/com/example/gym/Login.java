@@ -17,4 +17,9 @@ public class Login extends AppCompatActivity {
         Intent Sign = new Intent(this, SignUp.class);
         startActivity(Sign);
     }
+    public void Home(View view){
+        Intent Homee = new Intent(this, NavBotDialog.class);
+        startActivity(Homee);
+    }
+
 }
